@@ -1,0 +1,4 @@
+C:\Dev\Aula 05\Sistema de Autenticação de Usuários\obj\Debug\net8.0\Sistema de Autenticação de Usuários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aula 05\Sistema de Autenticação de Usuários\obj\Debug\net8.0\Sistema de Autenticação de Usuários.AssemblyInfoInputs.cache
+C:\Dev\Aula 05\Sistema de Autenticação de Usuários\obj\Debug\net8.0\Sistema de Autenticação de Usuários.AssemblyInfo.cs
+C:\Dev\Aula 05\Sistema de Autenticação de Usuários\obj\Debug\net8.0\Sistema de Autenticação de Usuários.csproj.CoreCompileInputs.cache

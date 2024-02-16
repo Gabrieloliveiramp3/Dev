@@ -1,0 +1,21 @@
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\bin\Debug\net8.0\Sistema de Gerenciamento de Funcionários.exe
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\bin\Debug\net8.0\Sistema de Gerenciamento de Funcionários.deps.json
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\bin\Debug\net8.0\Sistema de Gerenciamento de Funcionários.runtimeconfig.json
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\bin\Debug\net8.0\Sistema de Gerenciamento de Funcionários.dll
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\bin\Debug\net8.0\Sistema de Gerenciamento de Funcionários.pdb
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.AssemblyInfoInputs.cache
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.AssemblyInfo.cs
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.csproj.CoreCompileInputs.cache
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.dll
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\refint\Sistema de Gerenciamento de Funcionários.dll
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.pdb
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.genruntimeconfig.cache
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\ref\Sistema de Gerenciamento de Funcionários.dll
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.AssemblyInfoInputs.cache
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.AssemblyInfo.cs
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.csproj.CoreCompileInputs.cache
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.dll
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\refint\Sistema de Gerenciamento de Funcionários.dll
+C:\Dev\Aula 05\Sistema de Gerenciamento de Funcionários\obj\Debug\net8.0\Sistema de Gerenciamento de Funcionários.pdb
